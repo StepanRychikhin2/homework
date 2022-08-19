@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Портфоліо.css" />
+    <link href=" https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css"/>
+</head>
+<body>
+    <nav>
+
+        <a href="головна.html" class="link">WebStudio</a>
+        <a href="Студія" class="link1">Студія</a>
+        <a href="Портфоліо"  class="link2">Портфоліо</a>
+        <a href="Контакти"  class="link3">Контакти</a>
+        <a href="info@devstudio.com"  class="link1">info@devstudio.com</a>
+        <a href="+380961111111"  class="link4">+38 096 111 11 11</a>
+            </nav>
+            <nav>
+                <button type="button" class="button">Усе</button>
+                <button type="button" class="button1">Веб-сайти</button>
+                <button type="button" class="button2">Застосунки</button>
+                <button type="button" class="button3">Дизайн</button>
+                <button type="button" class="button4">Маркетинг</button>
+            </nav>
+            <ul>
+<img class="img" src="Портфоліо1 - копия.png"
+    alt="людина"
+width="200"/>
+<p class="none"><b>Технокряк</b></p>
+<p class="q1">Веб-сайт</p>
+
+
+<img class="img2" src="Портфоліо2 - копия.png"
+alt="людина"
+width="200"/>
+<p class="none1"><b>Постер New Orlean vs Golden Star</b></p>
+<p class="q2">Дизайн</p></li>
+
+
+<img class="img3" src="Портфоліо3.png"
+alt="людина"
+width="200"/>
+<p class="none2"><b>Ресторан Seafood</b></p>
+<p class="q3">Застосунок</p></li>
+
+
+<img class="img4" src="Портфоліо4 - копия - копия.png"
+alt="людина"
+width="200"/>
+<p class="none3"><b>Проект Prime</b></p>
+<p class="q4">Маркетинг</p></li>
+
+
+<img class="img5" src="Портфоліо5 - копия - копия.png"
+alt="людина"
+width="200"/>
+<p class="none4"><b>Проект Boxes</b></p>
+<p class="q5">Застосунок</p></li>
+
+
+<img class="img6" src="Портфоліо6.png"
+alt="людина"
+width="200"/>
+<p class="none5"><b>Inspiration has no Borders</b></p>
+<p class="q6">Веб-сайт</p></li>
+
+
+<img class="img7" src="Портфоліо7 - копия.png"
+alt="людина"
+width="200"/>
+<p class="none6"><b>Видавництво Limited Edition</b></p>
+<p class="q7">Дизайн</p></li>
+
+
+<img class="img8" src="Портфоліо8.png"
+alt="людина"
+width="200"/>
+<p class="none7"><b>Проект LAB</b></p>
+<p class="q8">Маркетинг</p></li>
+
+
+<img class="img9" src="Портфоліо9.png"
+alt="людина"
+width="200"/>
+<p class="none8"><b>Growing Business</b></p>
+<p class="q9">Застосунок</p></li>
+
+            </ul>
+
+            <h5 class="link10">WebStudio</h5>
+    
+            <ul class="link99">
+            <li class="link11">м. Київ, пр-т Лесі Українки, 26</li>
+            <li><a class="link12" href="info@devstudio.com">info@devstudio.com</a></li>
+            <li><a class="link13" href="+380961111111">+38 096 111 11 11</a></li>
+            </ul>
+</body>
+</html>
