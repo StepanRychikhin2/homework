@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css2? family= Raleway:wght@700 &родина= Roboto:wght@400;500;700;900 & display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css" />
+  <link rel="stylesheet" href="./styles/styless.css" />
+
+</head>
+<body>
+<!--header -->
+<header class="header">
+  <a href="./index.html" class="header-logo">Web<span class="header-color">Studio</span></a>
+  <ul class="header-list">
+    <li><a href="/" class="header-link">Студія</a></li>
+    <li><a href="./portholio.html" class="header-link">Портфоліо</a></li>
+    <li><a href="Контакти" class="header-link">Контакти</a></li>
+  </ul>
+  <ul class="contakt-list">
+    <li><a href="mailto:info@devstudio.com" class="contakt-link">info@devstudio.com</a></li>
+    <li><a href="tel:+380961111111" class="contakt-link">+38 096 111 11 11</a></li>
+  </ul>
+</header>
+<main>
+  <!--секція герой -->
+  <section class="hero-section">
+    <h1 class="hero-title">ефективні рішення для вашого бізнесу</h1>
+    <button type="button" class="hero-button">Замовити послугу</button>
+  </section>
+  <!--Чому ми -->
+  <section class="attention-section">
+  <ul class="attention-list">
+    <li class="attention-item">
+      <h2 class="attention-title">УВАГА ДО ДЕТАЛЕЙ</h2>
+      <p class="attention-text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem
+        veritatis exercitationem velit magnam iure.
+      </p>
+    </li>
+    <li class="attention-item">
+      <h2 class="attention-title">ПунктуальнІсть</h2>
+      <p class="attention-text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem
+        veritatis exercitationem velit magnam iure.
+      </p>
+    </li>
+    <li class="attention-item">
+      <h2 class="attention-title">ПЛАНУВАННЯ</h2>
+      <p class="attention-text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem
+        veritatis exercitationem velit magnam iure.
+      </p>
+    </li>
+    <li class="attention-item">
+      <h2 class="attention-title">СУЧАСНІ технології</h2>
+      <p class="attention-text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem
+        veritatis exercitationem velit magnam iure.
+      </p>
+    </li>
+  </ul>
+</section>
+<!-- чим ми займайемося -->
+  <section class="work-section">
+    <h2 class="work-title">Чим ми займаємося</h2>
+    <ul class="work-list">
+      <li class="work-item"><img class="work-img" src="./imeges/hacker1.jpg" alt="пк" width="200" /></li>
+      <li class="work-item"><img class="work-img" src="./imeges/hacker2.jpg" alt="телефон" width="200" /></li>
+      <li class="work-item"><img class="work-img" src="./imeges/hacker3.jpg" alt="планшет" width="200" /></li>
+    </ul>
+  </section>
+  <!-- наша команда -->
+  <section class="team-section">
+    <h2 class="team-title">Наша команда</h2>
+    <ul class="team-list">
+      <li class="team-item">
+        <img class="team-img" src="./imeges/worker1.jpg" alt="людина" width="200" />
+        <p class="team-name">Ігор Дем’яненко</p>
+        <p class="team-text">Product Designer</p>
+      </li>
+
+      <li class="team-item">
+        <img class="team-img" src="./imeges/worker2.jpg" alt="людина" width="200" />
+        <p class="team-name">Ольга Репіна</p>
+        <p class="team-text">Frontend Developer</p>
+      </li>
+
+      <li class="team-item">
+        <img class="team-img" src="./imeges/worker3.jpg" alt="людина" width="200" />
+        <p class="team-name">Микола Тарасов</p>
+        <p class="team-text">Marketing</p>
+      </li>
+
+      <li class="team-item">
+        <img class="team-img" src="./imeges/worker4.jpg" alt="людина" width="200" />
+        <p class="team-name">Михайло Єрмаков></p>
+        <p class="team-text">UI Designer</p>
+      </li>
+    </ul>
+  </section>
+  </main>
+    <!--footer -->
+    <footer class="section-footer">
+        <h2 class="footer-logo">Web<span class="header-color">Studio</span></h2>
+        <address class="address">м. Київ, пр-т Лесі Українки, 26</address>
+        <ul class="footer-list">
+         
+          <li class="footer-item">
+            <a class="footer-link" href="mailto:info@devstudio.com">info@devstudio.com</a>
+          </li>
+          <li class="footer-item">
+            <a class="footer-link" href="tel:+380961111111">+38 096 111 11 11</a>
+          </li>
+        </ul>
+    </footer>
+</body>
+
+
+</html>
